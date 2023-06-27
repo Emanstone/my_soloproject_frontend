@@ -1,1 +1,1 @@
-This is my first solo project
+My soloproject built with html,CSS and Javascript
